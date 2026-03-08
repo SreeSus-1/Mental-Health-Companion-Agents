@@ -1,2 +1,4 @@
 # Mental-Health-Companion-Agents
 Create a journaling + coaching assistant for emotional well-being.
+
+This project is a journaling and emotional well-being assistant built using multiple supportive AI agents. It includes a Reflection Agent that analyzes journal entries to identify emotional themes, tone, and key feelings, a Cognitive Reframe Agent that provides a more balanced and encouraging perspective on the user’s thoughts, and a Wellness Tracker Agent that stores daily mood logs and journal history for long-term trend tracking. The system combines daily mood input, open journaling, emotional reflection, and persistent storage to help users better understand their emotional patterns over time. A Streamlit dashboard allows users to both journal and visualize wellness trends from previous entries.
